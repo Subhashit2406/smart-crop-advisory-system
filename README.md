@@ -187,28 +187,7 @@ krishi-saathi-sih2025/
 | POST | `/weather` | Weather data and alerts |
 | GET | `/docs` | Interactive API documentation |
 
----
 
-## 🏅 **Team & Contact**
-
-**Team:** [Your Team Name]
-**Institution:** [Your Institution]
-**SIH 2025 ID:** [Your Team ID]
-**Primary Contact:** [Your Email/Phone]
-
-**Technical Lead:** [Your Name]
-**Role:** Full-Stack AI Developer
-**Implementation:** Backend, RAG, ML Models, Data Integration
-
----
-
-## 📞 **For Judges**
-
-### **Quick Evaluation:**
-1. **Run:** `python backend/demo_complete_system.py`
-2. **View:** `http://localhost:8000/docs` (API docs)
-3. **Test:** Try the chatbot with Hindi queries
-4. **Data:** See 12,654+ real market records in action
 
 ### **Key Differentiators:**
 - ✅ **Real Data Integration** (12,654+ records vs mock data)
@@ -234,11 +213,6 @@ This project is developed for Smart India Hackathon 2025.
 - **Government of India** for market data APIs
 - **Indian Council of Agricultural Research (ICAR)** for agricultural knowledge
 
----
-
-**🏅 READY TO WIN SIH 2025! 🏅**
-
-For any questions or clarifications, please contact the team lead.
 
 ---
 
@@ -251,3 +225,4 @@ For any questions or clarifications, please contact the team lead.
 - **Problem Coverage:** 100%
 
 **Last Updated:** December 2024
+
